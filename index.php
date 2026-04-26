@@ -1,3 +1,4 @@
+//лабораторная работа 2
 <?php
 //  Работа с датой и временем 
 function getWorkDaysInMonth($month, $year) {
